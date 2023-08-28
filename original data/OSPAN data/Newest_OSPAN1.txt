@@ -1,0 +1,1397 @@
+{
+  "data": {
+    "ospan_1": [
+      [
+        {
+          "equation": {
+            "a": 3,
+            "b": 12,
+            "operator": "+",
+            "result": 19,
+            "isCorrect": false
+          },
+          "letter": "G",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691757671321,
+          "startTime": 1691757668735
+        },
+        {
+          "equation": {
+            "a": 5,
+            "b": 0,
+            "operator": "-",
+            "result": 5,
+            "isCorrect": true
+          },
+          "letter": "D",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691757676392,
+          "startTime": 1691757673773
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 3,
+            "operator": "+",
+            "result": 15,
+            "isCorrect": false
+          },
+          "letter": "E",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691757681577,
+          "startTime": 1691757678843
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 5,
+            "operator": "-",
+            "result": 21,
+            "isCorrect": false
+          },
+          "letter": "W",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691757683908
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 7,
+            "operator": "+",
+            "result": 1,
+            "isCorrect": false
+          },
+          "letter": "O",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691757688956
+        },
+        {
+          "input": "GEDWO",
+          "letters": "GDEWO",
+          "inputTime": 1691785265749,
+          "startTime": 1691757694001
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 2,
+            "b": 6,
+            "operator": "+",
+            "result": 1,
+            "isCorrect": false
+          },
+          "letter": "I",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785265788
+        },
+        {
+          "equation": {
+            "a": 0,
+            "b": 10,
+            "operator": "+",
+            "result": 10,
+            "isCorrect": true
+          },
+          "letter": "Q",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691785273302,
+          "startTime": 1691785270803
+        },
+        {
+          "equation": {
+            "a": 13,
+            "b": 14,
+            "operator": "+",
+            "result": 7,
+            "isCorrect": false
+          },
+          "letter": "K",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785275860
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 12,
+            "operator": "+",
+            "result": 20,
+            "isCorrect": true
+          },
+          "letter": "J",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785280913
+        },
+        {
+          "equation": {
+            "a": 1,
+            "b": 1,
+            "operator": "-",
+            "result": 0,
+            "isCorrect": true
+          },
+          "letter": "P",
+          "correctAnswer": false,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691785287634,
+          "startTime": 1691785285963
+        },
+        {
+          "equation": {
+            "a": 6,
+            "b": 4,
+            "operator": "-",
+            "result": 17,
+            "isCorrect": false
+          },
+          "letter": "W",
+          "correctAnswer": false,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691785293997,
+          "startTime": 1691785291016
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 9,
+            "operator": "+",
+            "result": 28,
+            "isCorrect": false
+          },
+          "letter": "L",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785296060
+        },
+        {
+          "equation": {
+            "a": 9,
+            "b": 6,
+            "operator": "-",
+            "result": 21,
+            "isCorrect": false
+          },
+          "letter": "V",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785301116
+        },
+        {
+          "input": "AKEYVW",
+          "letters": "IQKJPWLV",
+          "inputTime": 1691785521996,
+          "startTime": 1691785306161
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 12,
+            "b": 2,
+            "operator": "-",
+            "result": 10,
+            "isCorrect": true
+          },
+          "letter": "A",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691785523994,
+          "startTime": 1691785522027
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 6,
+            "operator": "-",
+            "result": 29,
+            "isCorrect": false
+          },
+          "letter": "T",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691785528754,
+          "startTime": 1691785527054
+        },
+        {
+          "equation": {
+            "a": 9,
+            "b": 4,
+            "operator": "-",
+            "result": 5,
+            "isCorrect": true
+          },
+          "letter": "D",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691785534018,
+          "startTime": 1691785532111
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 4,
+            "operator": "-",
+            "result": 10,
+            "isCorrect": true
+          },
+          "letter": "P",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785537164
+        },
+        {
+          "input": "ATDP",
+          "letters": "ATDP",
+          "inputTime": 1691785700919,
+          "startTime": 1691785542207
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 11,
+            "b": 2,
+            "operator": "+",
+            "result": 16,
+            "isCorrect": false
+          },
+          "letter": "L",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691785703161,
+          "startTime": 1691785700954
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 4,
+            "operator": "-",
+            "result": 4,
+            "isCorrect": true
+          },
+          "letter": "H",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691785708100,
+          "startTime": 1691785705971
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 3,
+            "operator": "+",
+            "result": 17,
+            "isCorrect": true
+          },
+          "letter": "X",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785711036
+        },
+        {
+          "equation": {
+            "a": 6,
+            "b": 13,
+            "operator": "+",
+            "result": 1,
+            "isCorrect": false
+          },
+          "letter": "J",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785716087
+        },
+        {
+          "equation": {
+            "a": 1,
+            "b": 4,
+            "operator": "+",
+            "result": 19,
+            "isCorrect": false
+          },
+          "letter": "K",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785721141
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 2,
+            "operator": "-",
+            "result": 12,
+            "isCorrect": true
+          },
+          "letter": "U",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785726196
+        },
+        {
+          "equation": {
+            "a": 13,
+            "b": 2,
+            "operator": "-",
+            "result": 11,
+            "isCorrect": true
+          },
+          "letter": "M",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785731246
+        },
+        {
+          "input": "LAXJKU",
+          "letters": "LHXJKUM",
+          "inputTime": 1691785917080,
+          "startTime": 1691785736291
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 13,
+            "b": 13,
+            "operator": "-",
+            "result": 0,
+            "isCorrect": true
+          },
+          "letter": "R",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691785918749,
+          "startTime": 1691785917115
+        },
+        {
+          "equation": {
+            "a": 10,
+            "b": 8,
+            "operator": "-",
+            "result": 2,
+            "isCorrect": true
+          },
+          "letter": "H",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691785924508,
+          "startTime": 1691785922137
+        },
+        {
+          "equation": {
+            "a": 6,
+            "b": 9,
+            "operator": "+",
+            "result": 27,
+            "isCorrect": false
+          },
+          "letter": "N",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785927194
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 2,
+            "operator": "-",
+            "result": 15,
+            "isCorrect": false
+          },
+          "letter": "U",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785932247
+        },
+        {
+          "equation": {
+            "a": 13,
+            "b": 13,
+            "operator": "+",
+            "result": 26,
+            "isCorrect": true
+          },
+          "letter": "W",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691785937296
+        },
+        {
+          "equation": {
+            "a": 5,
+            "b": 3,
+            "operator": "-",
+            "result": 2,
+            "isCorrect": true
+          },
+          "letter": "D",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691785944390,
+          "startTime": 1691785942351
+        },
+        {
+          "input": "RHNUWD",
+          "letters": "RHNUWD",
+          "inputTime": 1691786331710,
+          "startTime": 1691785947414
+        }
+      ]
+    ],
+    "ospan_2": [
+      [
+        {
+          "equation": {
+            "a": 13,
+            "b": 10,
+            "operator": "-",
+            "result": 18,
+            "isCorrect": false
+          },
+          "letter": "Q",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691786334214,
+          "startTime": 1691786331755
+        },
+        {
+          "equation": {
+            "a": 2,
+            "b": 0,
+            "operator": "-",
+            "result": 17,
+            "isCorrect": false
+          },
+          "letter": "A",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691786336791
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 1,
+            "operator": "+",
+            "result": 8,
+            "isCorrect": true
+          },
+          "letter": "T",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691786341843
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 10,
+            "operator": "+",
+            "result": 17,
+            "isCorrect": true
+          },
+          "letter": "C",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691786348805,
+          "startTime": 1691786346896
+        },
+        {
+          "equation": {
+            "a": 9,
+            "b": 10,
+            "operator": "+",
+            "result": 25,
+            "isCorrect": false
+          },
+          "letter": "F",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691786351950
+        },
+        {
+          "equation": {
+            "a": 9,
+            "b": 9,
+            "operator": "+",
+            "result": 18,
+            "isCorrect": true
+          },
+          "letter": "N",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691786358920,
+          "startTime": 1691786357003
+        },
+        {
+          "input": "QTAPFYT",
+          "letters": "QATCFN",
+          "inputTime": 1691786558061,
+          "startTime": 1691786362052
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 13,
+            "b": 6,
+            "operator": "-",
+            "result": 7,
+            "isCorrect": true
+          },
+          "letter": "Y",
+          "correctAnswer": false,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691786560286,
+          "startTime": 1691786558096
+        },
+        {
+          "equation": {
+            "a": 11,
+            "b": 12,
+            "operator": "+",
+            "result": 1,
+            "isCorrect": false
+          },
+          "letter": "J",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691786563122
+        },
+        {
+          "equation": {
+            "a": 13,
+            "b": 5,
+            "operator": "-",
+            "result": 8,
+            "isCorrect": true
+          },
+          "letter": "N",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691786568177
+        },
+        {
+          "equation": {
+            "a": 13,
+            "b": 3,
+            "operator": "-",
+            "result": 10,
+            "isCorrect": true
+          },
+          "letter": "H",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691786575994,
+          "startTime": 1691786573227
+        },
+        {
+          "input": "JNH",
+          "letters": "YJNH",
+          "inputTime": 1691786986107,
+          "startTime": 1691786578284
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 4,
+            "b": 3,
+            "operator": "-",
+            "result": 12,
+            "isCorrect": false
+          },
+          "letter": "Y",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691786987466,
+          "startTime": 1691786986142
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 11,
+            "operator": "-",
+            "result": 3,
+            "isCorrect": true
+          },
+          "letter": "E",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691786991162
+        },
+        {
+          "equation": {
+            "a": 11,
+            "b": 14,
+            "operator": "+",
+            "result": 25,
+            "isCorrect": true
+          },
+          "letter": "Z",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691786996206
+        },
+        {
+          "equation": {
+            "a": 2,
+            "b": 1,
+            "operator": "-",
+            "result": 1,
+            "isCorrect": true
+          },
+          "letter": "D",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787003151,
+          "startTime": 1691787001257
+        },
+        {
+          "equation": {
+            "a": 0,
+            "b": 2,
+            "operator": "+",
+            "result": 2,
+            "isCorrect": true
+          },
+          "letter": "Q",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787006311
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 2,
+            "operator": "-",
+            "result": 18,
+            "isCorrect": false
+          },
+          "letter": "A",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787014247,
+          "startTime": 1691787011359
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 3,
+            "operator": "+",
+            "result": 10,
+            "isCorrect": true
+          },
+          "letter": "H",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787016414
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 4,
+            "operator": "-",
+            "result": 4,
+            "isCorrect": true
+          },
+          "letter": "L",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787021464
+        },
+        {
+          "input": "YZQDETAHY",
+          "letters": "YEZDQAHL",
+          "inputTime": 1691787168768,
+          "startTime": 1691787026508
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 4,
+            "b": 12,
+            "operator": "+",
+            "result": 16,
+            "isCorrect": true
+          },
+          "letter": "T",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787170734,
+          "startTime": 1691787168804
+        },
+        {
+          "equation": {
+            "a": 6,
+            "b": 7,
+            "operator": "+",
+            "result": 15,
+            "isCorrect": false
+          },
+          "letter": "B",
+          "correctAnswer": false,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787176614,
+          "startTime": 1691787173833
+        },
+        {
+          "equation": {
+            "a": 1,
+            "b": 7,
+            "operator": "+",
+            "result": 11,
+            "isCorrect": false
+          },
+          "letter": "J",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787181214,
+          "startTime": 1691787178886
+        },
+        {
+          "equation": {
+            "a": 5,
+            "b": 2,
+            "operator": "-",
+            "result": 2,
+            "isCorrect": false
+          },
+          "letter": "E",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787183941
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 9,
+            "operator": "+",
+            "result": 23,
+            "isCorrect": true
+          },
+          "letter": "D",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787189003
+        },
+        {
+          "equation": {
+            "a": 13,
+            "b": 1,
+            "operator": "+",
+            "result": 14,
+            "isCorrect": true
+          },
+          "letter": "K",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787194052
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 10,
+            "operator": "+",
+            "result": 18,
+            "isCorrect": true
+          },
+          "letter": "F",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787199100
+        },
+        {
+          "input": "TBJQYTF",
+          "letters": "TBJEDKF",
+          "inputTime": 1691787259248,
+          "startTime": 1691787204136
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 6,
+            "b": 3,
+            "operator": "-",
+            "result": 3,
+            "isCorrect": true
+          },
+          "letter": "P",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787260763,
+          "startTime": 1691787259278
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 1,
+            "operator": "-",
+            "result": 26,
+            "isCorrect": false
+          },
+          "letter": "B",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787266339,
+          "startTime": 1691787264307
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 11,
+            "operator": "-",
+            "result": 3,
+            "isCorrect": true
+          },
+          "letter": "L",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787269364
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 3,
+            "operator": "-",
+            "result": 28,
+            "isCorrect": false
+          },
+          "letter": "G",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787274415
+        },
+        {
+          "equation": {
+            "a": 12,
+            "b": 10,
+            "operator": "-",
+            "result": 2,
+            "isCorrect": true
+          },
+          "letter": "O",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787281481,
+          "startTime": 1691787279468
+        },
+        {
+          "input": "PBLGO",
+          "letters": "PBLGO",
+          "inputTime": 1691787636678,
+          "startTime": 1691787284516
+        }
+      ]
+    ],
+    "ospan_3": [
+      [
+        {
+          "equation": {
+            "a": 6,
+            "b": 2,
+            "operator": "-",
+            "result": 4,
+            "isCorrect": true
+          },
+          "letter": "U",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787638789,
+          "startTime": 1691787636722
+        },
+        {
+          "equation": {
+            "a": 3,
+            "b": 2,
+            "operator": "+",
+            "result": 5,
+            "isCorrect": true
+          },
+          "letter": "O",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787644667,
+          "startTime": 1691787641761
+        },
+        {
+          "equation": {
+            "a": 12,
+            "b": 10,
+            "operator": "-",
+            "result": 11,
+            "isCorrect": false
+          },
+          "letter": "X",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787646821
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 6,
+            "operator": "+",
+            "result": 14,
+            "isCorrect": true
+          },
+          "letter": "V",
+          "correctAnswer": false,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787654342,
+          "startTime": 1691787651868
+        },
+        {
+          "equation": {
+            "a": 13,
+            "b": 2,
+            "operator": "+",
+            "result": 15,
+            "isCorrect": true
+          },
+          "letter": "W",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787656933
+        },
+        {
+          "equation": {
+            "a": 12,
+            "b": 4,
+            "operator": "+",
+            "result": 19,
+            "isCorrect": false
+          },
+          "letter": "H",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787661981
+        },
+        {
+          "input": "UOXVWH",
+          "letters": "UOXVWH",
+          "inputTime": 1691787689173,
+          "startTime": 1691787667024
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 0,
+            "b": 7,
+            "operator": "+",
+            "result": 7,
+            "isCorrect": true
+          },
+          "letter": "Z",
+          "correctAnswer": false,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787690550,
+          "startTime": 1691787689207
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 11,
+            "operator": "+",
+            "result": 18,
+            "isCorrect": true
+          },
+          "letter": "T",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787694220
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 2,
+            "operator": "-",
+            "result": 6,
+            "isCorrect": true
+          },
+          "letter": "M",
+          "correctAnswer": false,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787699404,
+          "startTime": 1691787699273
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 4,
+            "operator": "+",
+            "result": 0,
+            "isCorrect": false
+          },
+          "letter": "Q",
+          "correctAnswer": false,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787706866,
+          "startTime": 1691787704333
+        },
+        {
+          "equation": {
+            "a": 12,
+            "b": 2,
+            "operator": "+",
+            "result": 15,
+            "isCorrect": false
+          },
+          "letter": "Y",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787709396
+        },
+        {
+          "input": "ZTMQY",
+          "letters": "ZTMQY",
+          "inputTime": 1691787743776,
+          "startTime": 1691787714438
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 3,
+            "b": 2,
+            "operator": "-",
+            "result": 1,
+            "isCorrect": true
+          },
+          "letter": "F",
+          "correctAnswer": true,
+          "choice": true,
+          "missed": false,
+          "decisionTime": 1691787745045,
+          "startTime": 1691787743803
+        },
+        {
+          "equation": {
+            "a": 6,
+            "b": 4,
+            "operator": "+",
+            "result": 3,
+            "isCorrect": false
+          },
+          "letter": "Q",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787748834
+        },
+        {
+          "equation": {
+            "a": 14,
+            "b": 8,
+            "operator": "+",
+            "result": 22,
+            "isCorrect": true
+          },
+          "letter": "W",
+          "correctAnswer": false,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787756527,
+          "startTime": 1691787753884
+        },
+        {
+          "equation": {
+            "a": 12,
+            "b": 14,
+            "operator": "+",
+            "result": 26,
+            "isCorrect": true
+          },
+          "letter": "J",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787758948
+        },
+        {
+          "equation": {
+            "a": 3,
+            "b": 2,
+            "operator": "-",
+            "result": 10,
+            "isCorrect": false
+          },
+          "letter": "V",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787763998
+        },
+        {
+          "equation": {
+            "a": 0,
+            "b": 9,
+            "operator": "+",
+            "result": 12,
+            "isCorrect": false
+          },
+          "letter": "S",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787769043
+        },
+        {
+          "equation": {
+            "a": 12,
+            "b": 11,
+            "operator": "-",
+            "result": 14,
+            "isCorrect": false
+          },
+          "letter": "M",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787774094
+        },
+        {
+          "input": "FQWQMX",
+          "letters": "FQWJVSM",
+          "inputTime": 1691787801919,
+          "startTime": 1691787779141
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 3,
+            "b": 14,
+            "operator": "+",
+            "result": 17,
+            "isCorrect": true
+          },
+          "letter": "L",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787801952
+        },
+        {
+          "equation": {
+            "a": 1,
+            "b": 12,
+            "operator": "+",
+            "result": 29,
+            "isCorrect": false
+          },
+          "letter": "K",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787806974
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 14,
+            "operator": "+",
+            "result": 7,
+            "isCorrect": false
+          },
+          "letter": "R",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787812027
+        },
+        {
+          "equation": {
+            "a": 9,
+            "b": 3,
+            "operator": "-",
+            "result": 3,
+            "isCorrect": false
+          },
+          "letter": "B",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787817082
+        },
+        {
+          "input": "LKRB",
+          "letters": "LKRB",
+          "inputTime": 1691787860150,
+          "startTime": 1691787822127
+        }
+      ],
+      [
+        {
+          "equation": {
+            "a": 14,
+            "b": 7,
+            "operator": "+",
+            "result": 21,
+            "isCorrect": true
+          },
+          "letter": "Y",
+          "correctAnswer": false,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787861894,
+          "startTime": 1691787860181
+        },
+        {
+          "equation": {
+            "a": 9,
+            "b": 0,
+            "operator": "-",
+            "result": 29,
+            "isCorrect": false
+          },
+          "letter": "M",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787865210
+        },
+        {
+          "equation": {
+            "a": 12,
+            "b": 3,
+            "operator": "-",
+            "result": 26,
+            "isCorrect": false
+          },
+          "letter": "J",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787870263
+        },
+        {
+          "equation": {
+            "a": 7,
+            "b": 2,
+            "operator": "+",
+            "result": 9,
+            "isCorrect": true
+          },
+          "letter": "X",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787875300
+        },
+        {
+          "equation": {
+            "a": 9,
+            "b": 2,
+            "operator": "-",
+            "result": 22,
+            "isCorrect": false
+          },
+          "letter": "F",
+          "correctAnswer": true,
+          "choice": false,
+          "missed": false,
+          "decisionTime": 1691787880628,
+          "startTime": 1691787880365
+        },
+        {
+          "equation": {
+            "a": 4,
+            "b": 3,
+            "operator": "-",
+            "result": 1,
+            "isCorrect": true
+          },
+          "letter": "N",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787885420
+        },
+        {
+          "equation": {
+            "a": 8,
+            "b": 7,
+            "operator": "-",
+            "result": 6,
+            "isCorrect": false
+          },
+          "letter": "T",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787890472
+        },
+        {
+          "equation": {
+            "a": 10,
+            "b": 12,
+            "operator": "+",
+            "result": 16,
+            "isCorrect": false
+          },
+          "letter": "R",
+          "correctAnswer": false,
+          "missed": true,
+          "startTime": 1691787895523
+        },
+        {
+          "input": "YLKXMNR",
+          "letters": "YMJXFNTR",
+          "inputTime": 1691787936721,
+          "startTime": 1691787900569
+        }
+      ]
+    ]
+  },
+  "metadata": {
+    "page_advances": [
+      {
+        "to": 1,
+        "from": 0,
+        "time": 1691757668688
+      },
+      {
+        "to": 2,
+        "from": 1,
+        "time": 1691786331711
+      },
+      {
+        "to": 3,
+        "from": 2,
+        "time": 1691787636679
+      }
+    ],
+    "started_at": 1691787879557,
+    "finished_at": 1691787936721
+  }
+}

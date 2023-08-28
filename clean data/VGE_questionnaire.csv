@@ -1,0 +1,3 @@
+,id,user_id,user,regularly_plays_games,time_spent_playing,has_game_device,game_devices,top4games_1st,top4games_2nd,virtual_environments,time_spent_playing_virtual_environments,watch_others_play,time_spent_watching,started_at,finished_at
+0,64baf8e57440b5960a1c29cf,644604ce6b909279c959fa41,rtocs_kate,No,6-10,No,['PC'],Bdhdb,Bfnd,Yes,1-5,No,1-5,1689974993630,1689975011263
+1,64baf8e37440b5960a1c29ce,644604ce6b909279c959fa41,rtocs_kate,No,6-10,No,['PC'],Bdhdb,Bfnd,Yes,1-5,No,1-5,1689974993630,1689975010438
